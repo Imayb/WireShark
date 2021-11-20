@@ -29,9 +29,11 @@ proto[offset:size(optional)]=value, where proto is the desired protocol to filte
 [![git.png](https://i.postimg.cc/2jJqLpCW/git.png)](https://postimg.cc/6Tr6Fm26)
 
 ^Flow graph troubleshoots dropped connections, lost frames, re-transmission traffic
+
 [![git.png](https://i.postimg.cc/SKyjbkfB/git.png)](https://postimg.cc/BjVJxWyp)
 
-^ Round-trip time is the duration that the ACK for a sent packet is received. The x-axis represents the TCP sequence number, while the y-axis represents the RTT in second
+^ Round-trip time is the duration that the ACK for a sent packet is received. The x-axis represents the TCP sequence number, while the y-axis represents the RTT in seconds
+
 [![git.png](https://i.postimg.cc/YCxYWXnw/git.png)](https://postimg.cc/XrprMg62)
 
 ^ Portrays unidirectional traffic, about 50000 bits after .5 seconds 
